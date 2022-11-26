@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nargis45](https://github.com/Nargis45)
+- 👨‍💻 All of my projects are available at [https://github.com/Nargis45](https://github.com/Nargis45?tab=repositories)
 
 - 💬 Ask me about **Machine Learning, Python, MySQL, MSExcel**
 
