@@ -1,4 +1,4 @@
-
+![logo](https://th.bing.com/th/id/R.f89ca2de557c40fb67098744c0d31aec?rik=taTr80iJ1HRoKg&riu=http%3a%2f%2fwebmatrixcorp.com%2fassets%2fimg%2fdata_science_banner.jpg&ehk=a1Px%2fZaaGrXsZIO3B53smLTuVQhd%2fKSp1d3PGnM99e4%3d&risl=&pid=ImgRaw&r=0)
 <h1 align="center">Hi 👋, I'm Nargis Nasreen</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
 <img align='right' alt='coding' width='400' src='https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif'>
