@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Machine Learning, Python, MySQL, MSExcel**
 
-- 📫 How to reach me **nasreennargis204@gmail.com**
+- 📫 How to reach me **nasreennargisamu@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/nargis45](www.linkedin.com/in/nargis45)
 
