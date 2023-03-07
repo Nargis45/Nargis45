@@ -16,7 +16,7 @@
 - 📫 How to reach me **nasreennargisamu@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/nargis45](www.linkedin.com/in/nargis45)
-- 📝 I write articles on https://medium.com/@nasreennargisamu/sql-aggregate-functions-26bb2dd98aad
+- 📝 I write articles on [https://medium.com/@nasreennargisamu/sql-aggregate-functions-26bb2dd98aad](https://medium.com/@nasreennargisamu/ml-use-cases-in-healthcare-9fca8dbb34d)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
