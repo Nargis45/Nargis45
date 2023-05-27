@@ -3,9 +3,9 @@
 <img align='right' alt='coding' width='400' src='https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nargis45&label=Profile%20views&color=0e75b6&style=flat" alt="nargis45" /> </p>
 
-- 🔭 I’m currently working on **MySQL**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **NLP**
 
 - 👯 I’m looking to collaborate on **Data Science projects**
 
