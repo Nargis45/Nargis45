@@ -3,15 +3,15 @@
 <img align='right' alt='coding' width='400' src='https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nargis45&label=Profile%20views&color=0e75b6&style=flat" alt="nargis45" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Machine Learning and NLP**
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 👯 I’m looking to collaborate on **Data Science projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nargis45](https://github.com/Nargis45?tab=repositories)
+- 👨‍💻 All of my personal projects are available at [https://github.com/Nargis45](https://github.com/Nargis45?tab=repositories)
 
-- 💬 Ask me about **Machine Learning, Python, MySQL, MSExcel**
+- 💬 Ask me about **Machine Learning, Python, MySQL, Azure**
 
 - 📫 How to reach me **nasreennargisamu@gmail.com**
 
@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nargis nasreen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nargis nasreen" height="30" width="40" /></a>
-<a href="https://instagram.com/nargisnasreen2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nargisnasreen2" height="30" width="40" /></a>
+<a href="https://instagram.com/nargisnasreen6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nargisnasreen2" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/edurise point" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="edurise point" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nasreennargisamu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nasreennargisamu" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nasreennargisamu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nasreennargisamu" height="30" width="40" /></a>
